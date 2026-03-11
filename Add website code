@@ -1,0 +1,76 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Afroza Ahmed | SEO Expert</title>
+
+<meta name="description" content="Afroza Ahmed - SEO Expert, Facebook Ads & Google Ads Specialist helping businesses grow with digital marketing.">
+
+<meta name="keywords" content="SEO Expert Bangladesh, Facebook Ads Specialist, Google Ads Expert">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Afroza Ahmed</h1>
+
+<p>SEO Expert | Facebook Ads & Google Ads Specialist</p>
+
+</header>
+
+<section>
+
+<h2>About Me</h2>
+
+<p>
+Hello! I'm Afroza Ahmed, a professional digital marketer specializing in SEO, Facebook Ads, and Google Ads.
+I help businesses increase traffic, leads, and online sales.
+</p>
+
+</section>
+
+<section>
+
+<h2>My Services</h2>
+
+<ul>
+
+<li>SEO Optimization</li>
+
+<li>Facebook Ads Campaign</li>
+
+<li>Google Ads Management</li>
+
+<li>Keyword Research</li>
+
+</ul>
+
+</section>
+
+<section>
+
+<h2>Contact</h2>
+
+<p>Phone: 01700948614</p>
+
+<p>Email: jobaahmed600@gmail.com</p>
+
+</section>
+
+<footer>
+
+<p>© 2026 Afroza Ahmed</p>
+
+</footer>
+
+</body>
+
+</html>
